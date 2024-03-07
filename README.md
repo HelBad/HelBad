@@ -95,7 +95,7 @@
 <!-- Contact Section -->
 <h3> Connect with me 🤝 : <h3>
 </hr>
-<a href="https://www.linkedin.com/in/moh.-hilmy-badrudduja/">
+<a href="https://www.linkedin.com/in/moh-hilmy-badrudduja-295197249/">
   <img align="left" alt="HelBad | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
 </a>
 <a href="https://www.instagram.com/h.badrudduja/">
