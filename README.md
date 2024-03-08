@@ -12,7 +12,8 @@
 <!-- About Section -->
 <h3>About me</h3>
 <p>
-  &emsp; &emsp; IT Programmer with over 3 years of experience specializing in Software Development. Has been involved in more than 30 software development projects. Comitted to developing software engineering expertise that helps company efficiency.
+  <!-- &emsp; &emsp; IT Programmer with over 3 years of experience specializing in Software Development. Has been involved in more than 30 software development projects. Comitted to developing software engineering expertise that helps company efficiency. -->
+  &emsp; &emsp; IT Programmer with over 3 years of experience specializing in Software Development. Has been involved in more than 30 software development projects. Comitted to developing software engineering expertise.
 </p>
 <br/>
 
